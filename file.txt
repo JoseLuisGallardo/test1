@@ -1,3 +1,4 @@
 esta es la vez numero 1 de este curso mas git
 esta es la segunda linea no hagas caso a la primera
 esta es la 3 linea hazle caso a la 2 y no le hagas caso a 3
+Esto no deberia editaarse desde git
